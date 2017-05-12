@@ -1,4 +1,4 @@
-connection: "bigquery-connectors-adwords"
+connection: "adwords_bigquery"
 
 # include all the views
 include: "*.view"

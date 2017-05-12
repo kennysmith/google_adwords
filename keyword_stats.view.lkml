@@ -1,5 +1,5 @@
 view: keyword_stats {
-  sql_table_name: adwords_v201609.KeywordStats_6747157124 ;;
+  sql_table_name: co_adwords.KeywordStats_5783050490 ;;
 
   dimension_group: _data {
     description: "Filter on this field to constain the query to a specific time range"

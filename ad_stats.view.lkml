@@ -1,5 +1,5 @@
 view: ad_stats {
-  sql_table_name: adwords_v201609.AdStats_6747157124 ;;
+  sql_table_name: co_adwords.AdStats_5783050490 ;;
   ### Metrics can be aggregated over time from this table, so we do NOT restrict on _data_date = _latest_date
 
   dimension_group: _data {

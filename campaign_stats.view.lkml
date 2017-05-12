@@ -1,5 +1,5 @@
 view: campaign_stats{
-  sql_table_name: adwords_v201609.CampaignStats_6747157124 ;;
+  sql_table_name: co_adwords.CampaignStats_5783050490 ;;
 
   dimension_group: _data {
     description: "Use this date field to filter results to specific time period"

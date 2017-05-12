@@ -1,5 +1,5 @@
-view: ad_conversion_stats_6747157124 {
-  sql_table_name: adwords_v201609.AdConversionStats_6747157124 ;;
+view: ad_conversion_stats_5783050490 {
+  sql_table_name: co_adwords.AdConversionStats_5783050490 ;;
 
   dimension_group: _data {
     type: time

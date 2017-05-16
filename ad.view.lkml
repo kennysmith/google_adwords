@@ -196,7 +196,7 @@ view: ad {
   dimension: headline_part1 {
     type: string
     sql: ${TABLE}.HeadlinePart1 ;;
-    html: Sample Keyword Name ;;
+#     html: Sample Keyword Name ;;
   }
 
   dimension: headline_part2 {
